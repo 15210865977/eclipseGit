@@ -9,5 +9,6 @@ public class Demo {
 		System.out.println("测试4");
 		System.out.println("唐三藏");
 		System.out.println("猪八戒");
+		System.out.println("盲僧");
 	}
 }
